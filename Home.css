@@ -51,9 +51,9 @@ h1{
 }
 #Pic{
     position:absolute;
-    right:30px;
-    top:20px;
-    height:100px;
+    right:10px;
+    top:10px;
+    height:10px;
 }
 div:nth-of-type(1){
   position: absolute;
